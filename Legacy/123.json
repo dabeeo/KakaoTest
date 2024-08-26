@@ -1,0 +1,179 @@
+{
+    "maps": [
+        {
+            "MapID": "MP-t4yfisdhfc4z0435",
+            "name": "[배포]롯데 센텀시티점",
+            "LEVELs": [
+                {
+                    "id": "SC-uJtvrDUk37073",
+                    "size": {
+                        "width": 1891.387207031255,
+                        "height": 1100.846252441404
+                    },
+                    "position": {
+                        "x": 1135.0966796875025,
+                        "y": 910.704437255858,
+                        "z": 0.0
+                    },
+                    "layerGroupCode": ""
+                },
+                {
+                    "id": "SC-Nhy8qlxTl6767",
+                    "size": {
+                        "width": 2056.9670047847253,
+                        "height": 1100.846299999999
+                    },
+                    "position": {
+                        "x": 1217.8865976076374,
+                        "y": 910.7044500000005,
+                        "z": 0.0
+                    },
+                    "layerGroupCode": ""
+                },
+                {
+                    "id": "SC-1iycpe7gqq8va5279",
+                    "size": {
+                        "width": 2056.97,
+                        "height": 1100.8500000000001
+                    },
+                    "position": {
+                        "x": 1217.885,
+                        "y": 910.705,
+                        "z": 0.0
+                    },
+                    "layerGroupCode": ""
+                },
+                {
+                    "id": "SC-r1ifkstyn6u92801",
+                    "size": {
+                        "width": 2056.97,
+                        "height": 1100.8500000000001
+                    },
+                    "position": {
+                        "x": 1217.885,
+                        "y": 910.705,
+                        "z": 0.0
+                    },
+                    "layerGroupCode": ""
+                },
+                {
+                    "id": "SC-1jyiuocfn3luu2790",
+                    "size": {
+                        "width": 1779.0800000000002,
+                        "height": 1100.8500000000001
+                    },
+                    "position": {
+                        "x": 1321.2800000000002,
+                        "y": 910.705,
+                        "z": 0.0
+                    },
+                    "layerGroupCode": ""
+                },
+                {
+                    "id": "SC-trqsblinwhtc2789",
+                    "size": {
+                        "width": 1779.0800000000002,
+                        "height": 1100.8500000000001
+                    },
+                    "position": {
+                        "x": 1321.2800000000002,
+                        "y": 910.705,
+                        "z": 0.0
+                    },
+                    "layerGroupCode": ""
+                },
+                {
+                    "id": "SC-toa4ev892rlh2796",
+                    "size": {
+                        "width": 1779.0800000000002,
+                        "height": 1100.8500000000001
+                    },
+                    "position": {
+                        "x": 1322.3662923484283,
+                        "y": 911.7912923484283,
+                        "z": 0.0
+                    },
+                    "layerGroupCode": ""
+                },
+                {
+                    "id": "SC-1jeffvwityng22793",
+                    "size": {
+                        "width": 1798.9,
+                        "height": 1062.25
+                    },
+                    "position": {
+                        "x": 1328.89,
+                        "y": 912.615,
+                        "z": 0.0
+                    },
+                    "layerGroupCode": ""
+                },
+                {
+                    "id": "SC-qxoadd4dd7p12797",
+                    "size": {
+                        "width": 1753.2700000000002,
+                        "height": 1062.25
+                    },
+                    "position": {
+                        "x": 1351.7050000000002,
+                        "y": 912.615,
+                        "z": 0.0
+                    },
+                    "layerGroupCode": ""
+                },
+                {
+                    "id": "SC-1ieyazeyn6bzq2791",
+                    "size": {
+                        "width": 1514.4,
+                        "height": 1062.25
+                    },
+                    "position": {
+                        "x": 1330.68,
+                        "y": 912.615,
+                        "z": 0.0
+                    },
+                    "layerGroupCode": ""
+                },
+                {
+                    "id": "SC-6pXtZdRIX5449",
+                    "size": {
+                        "width": 1816.4299999999998,
+                        "height": 1322.81
+                    },
+                    "position": {
+                        "x": 1325.445,
+                        "y": 794.295,
+                        "z": 0.0
+                    },
+                    "layerGroupCode": ""
+                },
+                {
+                    "id": "SC-1ib986cf50jmp2796",
+                    "size": {
+                        "width": 1816.4299999999998,
+                        "height": 1322.81
+                    },
+                    "position": {
+                        "x": 1325.445,
+                        "y": 794.295,
+                        "z": 0.0
+                    },
+                    "layerGroupCode": ""
+                },
+                {
+                    "id": "SC-UATsgaBQ73496",
+                    "size": {
+                        "width": 1816.0950916264815,
+                        "height": 1332.4189563524892
+                    },
+                    "position": {
+                        "x": 1325.1228548828944,
+                        "y": 795.4241221831248,
+                        "z": 0.0
+                    },
+                    "layerGroupCode": ""
+                }
+            ]
+        }
+    ]
+}
